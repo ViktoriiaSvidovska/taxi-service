@@ -4,8 +4,6 @@
 
 # <img src="src/main/resources/util/img_40.png" alt="img_40.png" width="45" height=""> DESCRIPTION
 
-___________
-
 This demo-project is a web-based application designed as a taxi service management system. 
 
 It offers features such as user authentication, registration, and CRUD operations.
@@ -17,7 +15,6 @@ manufacturers, cars drivers.
 
 
 # <img src="src/main/resources/util/img_33.png" alt="img_33.png" width="25"/> Features
-___________
 - Authentication <br />
 - Add/delete/update drivers <br />
 - Add/delete/update car models <br />
@@ -29,9 +26,9 @@ ___________
 
 
 # <img src="src/main/resources/util/img_37.png" alt="img_37.png" width="15"/> Structure
-___________
 
 #### Project 
+
 <pre>
 ├───java 
 │   └───taxi 
@@ -75,7 +72,6 @@ ___________
 ![img_27.png](src%2Fmain%2Fresources%2Futil%2Fimg_27.png)
 
 # <img src="src/main/resources/util/img_28.png" alt="img_28.png" width="25"/> Used Technologies
-___________
 - Java 11 <br />
 - MAVEN 4.0.0 <br />
 - MYSQL 8.0.22 <br />
@@ -88,7 +84,6 @@ ___________
 
 
 # <img src="src/main/resources/util/img_41.png" alt="img_41.png" width="25"/> Getting Started
-___________
 #### Prerequisites:
 - Java 17 or later
 - Apache Tomcat 9 (version 9.0.73 is recommended)
@@ -110,5 +105,4 @@ ___________
 7. Launch and use.
 
 # Authors
-___________
 #### Viktoriia Svidovska
